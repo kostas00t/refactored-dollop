@@ -1,5 +1,7 @@
 # Product Management System
 
+___
+
 ## Functionality
 
 * ❌User Registration and Login: Implement secure registration (username, email, password) and login features.
